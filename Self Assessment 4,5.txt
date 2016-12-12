@@ -1,0 +1,32 @@
+Zachary Ziemann
+Assignment 4,5
+
+1. How long did you spend on this assignment?
+ - I hoped this class would get easier as I went on, but it was still very difficult
+(as an upper level Stanford CS class).  These two assignments, like the past ones, 
+also took days to complete each.  
+
+2. Based on your effort, what letter grade would you say you earned?
+A
+
+3. Based on your solution, what letter grade would you say you earned?
+A
+
+4. Provide a summary of what doesn't work in your solution, 
+along with an explanation of how you attempted 
+to solve the problem and where you feel you struggled.
+
+ - These were definitely the hardest assignments. 
+ - They are again combined because they directly build off each other. 
+ - Note that the Twitter Framework I used didn't push from xcode but its the stuff from Stanford's website, unchanged. 
+The disconnect of not having any background with Stanford classes seemed to come into play here.
+However all things being considered I was able to get it working mostly.
+Also I found myself struggling to simply understand basic Twitter concepts in these assignments 
+(because I didn't have Twitter until this class forced me to).
+
+The app can search Twitter based on the keyword you type in.
+Once you click on a Tweet-result, it goes to the mentions page with the stats and data working nicely.
+Also there is the tab view that you can switch to and view your recent searches, and then get data based off those searches.
+Other smaller features like cell design also work.
+I had some problems with CoreData loading in one part for assignment 5.
+Sometimes I noticed the navigation acted very strange, but didn't seem consistent. 
